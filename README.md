@@ -21,7 +21,7 @@ Data Overiew:
 ![Data Overview](./Resources/Data_Overview.png)
 
 ### Top Locations
-- Top Stating and Ending Locations are represented by the darker color and large size of the circle(see image below).
+- Top Starting and Ending Locations are represented by the darker color and large size of the circle(see image below).
 
 ![Locations](./Resources/Locations.png)
 
